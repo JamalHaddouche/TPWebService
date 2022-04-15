@@ -18,6 +18,9 @@ on remarque que lorsque on envoi le montant et en envoi la requet vers le web se
 ![c4](https://user-images.githubusercontent.com/82270887/163589597-64d5754a-2998-4f4a-a335-72b65652408b.png)
  pour verifier les autres méthodes on fait le même travail
  # Partie 2 : Créer un autre projet ClientWS et le communiquer avec le projet TPWebService
+ voici le lien du projet ClientWS
+ https://github.com/JamalHaddouche/ClientWS
+ 
  à partir du WSDL on génère des classes et des interfaces qu'on va utiliser pour communiquer  avec le webService
  resultat de test 
  
