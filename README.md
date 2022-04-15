@@ -20,4 +20,5 @@ on remarque que lorsque on envoi le montant et en envoi la requet vers le web se
  # Partie 2 : Créer un autre projet ClientWS et le communiquer avec le projet TPWebService
  à partir du WSDL on génère des classes et des interfaces qu'on va utiliser pour communiquer  avec le webService
  resultat de test 
+ 
  ![c6](https://user-images.githubusercontent.com/82270887/163591134-5bd05bda-2c48-4715-957a-f2b055d2520f.png)
