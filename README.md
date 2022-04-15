@@ -10,6 +10,7 @@ le serveur n'est plus accessible que dans le localhost
 
 ### consulter le wsdl avec SOAP :
 le wsdl contient les methodes suivantes 
+
 ![c3](https://user-images.githubusercontent.com/82270887/163589297-657b63ee-3778-4197-9941-f28ce5f11413.png)
 ### test de la méthode conversionEuroToDh
 on remarque que lorsque on envoi le montant et en envoi la requet vers le web servcice ,le web service fait des traitement et il envoi une réponse en format Xml
